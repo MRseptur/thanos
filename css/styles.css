@@ -1,0 +1,298 @@
+/* CSS Document */
+/*///////////////////////// header rightlogo  ///////////////////////*/
+
+h1, h2, h3, h4, h5, h6, ul, li, a, blockquote, table, header, body, footer, nav, main  {
+	padding: 0%;
+	margin: 0%;
+} 
+
+
+.thant {
+	background-color: #1A001D;
+	
+		
+}
+header {
+	background-color: #1A001D;
+   position: center;
+	bottom: 100px;
+	right: 8px;
+	background-size: 50px 50px;
+
+}
+header th {
+	color: #FADDF9;
+	text-shadow: 0px 0.5px 6px #F6C4F4;
+text-align: left;
+	font-size: 4em;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.ttm{
+	position: relative;
+	left: 5%
+}
+
+/************************** NAV SECTION **********************************/
+
+.hnav {
+	background-color: #070008;
+	 border-bottom: double;
+}
+
+.hnav ul{
+	display: block;
+    padding-left: 0px;
+	padding-right: 0px;
+	position: relative;
+	left: 17px;
+}
+.hnav ul li {
+	display: inline-block;
+    list-style: none;
+	width: 19%;
+	text-align: center;
+	border-top: groove #FFFFFF;
+	text-decoration: none;
+	border-spacing: 50px;
+}
+
+
+.hnav li a {
+	  color:#EDDAF5;
+    font-size: 1.5em;
+/*    padding: 0 1.3em;*/
+    text-decoration: none;
+	font-weight: bold;
+	border-top: dashed #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-shadow: 0px 0.5px 2px #CBC4F6;
+
+}
+.hnav a:hover{
+	color: #070008;
+	background-color: #EDDAF5;
+	text-decoration: underline;
+	font-size: 1.6em;
+}
+
+
+/************************** BODY SECTION **********************************/
+body {
+	background-image: linear-gradient(180deg, #140011, #190015);
+	overflow-x: hidden;
+
+}
+
+body h1{
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"active;
+	color: #FFF0F0; 
+		text-shadow: 0px 0.5px 2px #CCC4F6;
+position: relative;
+	text-align: center;
+top: 20px;
+	font-size: 4em;
+}
+
+
+.indexp {
+	color: #FFF0F0;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"active;
+		text-shadow: 0px 0.5px 2px #CCC4F6;
+	text-align: center;
+	font: bolder;
+	font-size: 3em;
+
+} 
+
+.thanoshat {
+	position: relative;
+	left: 400px;
+	top: 3.8px
+}
+.deathp {
+	color: #FFF0F0;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"active;
+		text-shadow: 0px 0.5px 2px #CCC4F6;
+	text-align: left;
+	font: bolder;
+	font-size: 1.5em;	
+	
+}
+.death img {
+	border:  ridge #F4D9FD;
+	margin: 2% 0;
+}
+.TITANPAR {
+		color: #FFF0F0;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"active;
+		text-shadow: 0px 0.5px 2px #CCC4F6;
+	text-align: left;
+	font: bolder;
+	font-size: 1.5em;
+}
+.thnosimg {
+	border:  ridge #F4D9FD;
+	margin: 2% 0;
+	position: relative;
+	left: 400px;
+	top: 3.8px
+	
+}
+.keyg{
+	position: relative;
+	top: 50px;
+}
+.keyg {
+	
+	
+	font-size: 300%;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: #FFF0F0;
+	text-shadow: 2px 2px #000000 ;
+	position: relative;
+
+}
+.findthem{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"active;
+	color: #FFF0F0; 
+		text-shadow: 0px 0.5px 2px #CCC4F6;
+position: relative;
+	text-align: center;
+top: 20px;
+	font-size: 4em;
+}
+/************************** footer & Botom navigation  **********************************/
+
+footer {
+	color: #EDDAF5;
+	clear: both;
+    height: 150px;
+	background-color: #1A001D;
+	border-top: solid thick #F4D9FD;
+	
+}
+
+footer nav ul {
+    display: block;
+    float: right;
+}
+
+footer nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 1em;
+}
+
+footer nav ul li a {
+    color: #F2E4F0;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+    
+footer nav ul li a:hover {
+    color: #1A001D;
+    text-decoration: underline;
+			text-shadow: 0px 1px 2px #FFCCF6;
+	font-size: 1.9em;
+
+}
+
+footer p {
+    clear: right;
+    float: right;
+    color: #E4F2EA;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+    margin-right: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
